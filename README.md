@@ -2,6 +2,8 @@
 
 Projeto de estudo sobre bancos de dados NoSQL e MongoDB para disciplina de Sistemas NoSQL e BigData da Pós-Gradução em Ciência de Dados e Analytics da PUC-Rio.
 
+O projeto utiliza Docker, MongoDB e Python (pymongo).
+
 ## Como fazer o setup do projeto?
 
 O primeiro passo é iniciar uma container Docker com uma imagem pública do MongoDB que vai poder ser acessada na porta 27017:
